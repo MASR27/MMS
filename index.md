@@ -1,9 +1,48 @@
-<ul><li><a href="index.html">Home</a></li><li><a href="planning.html">Planning</a></li><li><a href="measurement.html">Measurement</a></li><li><a href="measurement_uncertainty.html">Measurement Uncertainty</a></li><li><a href="resources.html">Resources</a></li><li><a href="documentation.html">Documentation</a></li><li><a href="improvement.html">Improvement</a></li></ul>
+
+<style>
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+  }
+  
+  .menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .menu ul li {
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .menu ul li:hover {
+    color: #ff0000;
+  }
+</style>
+
+<div class="menu">
+  <h2>ISO 10012:2003 Measurement Management System for a Gas Station</h2>
+  <ul>
+    <li>Planning</li>
+    <li>Performance</li>
+    <li>Analysis</li>
+  </ul>
+</div>
+
 # Planning
 
-This section provides information about the planning aspect of the measurement management system for the gas station.
+## Quality Policy
 
-Content for the planning section goes here.
+## Quality Objectives
+
+## Risk Assessment
 
 # Performance
 
